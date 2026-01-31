@@ -48,17 +48,3 @@
 </div>
 
 ###
-
-<div align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@fafa2202/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@fafa2202/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@fafa2202/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@fafa2202/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@fafa2202/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@fafa2202/2" alt="Medium post 3"  />
-  </a>
-</div>
-
-###
