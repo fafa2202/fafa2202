@@ -1,10 +1,4 @@
 <div align="center">
-  <img height="190" src="https://giffiles.alphacoders.com/171/171266.gif"  />
-</div>
-
-###
-
-<div align="center">
   <a href="https://www.linkedin.com/in/fabiano-carpi-12b1b434a/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
@@ -24,12 +18,6 @@
 ###
 
 <p align="left">I’m Fabiano, passionate about technology and software development.<br>I have experience with Python, Java, HTML, and CSS, and I’m constantly pushing myself to learn more and improve as a developer.<br><br>I enjoy turning ideas into code, exploring new technologies, and challenging myself through projects. Programming is more than something I study — it’s something I’m committed to.</p>
-
-###
-
-<div align="left">
-  <img height="200" src="https://i.pinimg.com/originals/d7/64/84/d76484f755763b87d45ec9c56e21b37c.gif"  />
-</div>
 
 ###
 
